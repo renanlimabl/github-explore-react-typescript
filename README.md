@@ -1,4 +1,4 @@
 # This project is alive and open source =)
 
 ## Link:
-[Click here to open the project](https://githubexplore-react-typescript.netlify.app/){:target="_blank"}
+<a href="https://githubexplore-react-typescript.netlify.app/" target="_blank">Click here to open the project/</a>
