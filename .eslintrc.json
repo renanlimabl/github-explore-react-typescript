@@ -25,6 +25,15 @@
     "react-hooks"
   ],
   "rules": {
+    "camelcase": "off",
+    "@typescript-eslint/camelcase": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "@typescript-eslint/explicit-function-return-type": [
+      "error",
+      {
+        "allowExpressions": true
+      }
+    ],
     "no-unused-vars": "off",
     "no-use-before-define": "off",
     "prettier/prettier": "error",
